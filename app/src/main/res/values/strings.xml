@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagingAndDatabase</string>
+    <string name="title_beer">Beer</string>
+</resources>
